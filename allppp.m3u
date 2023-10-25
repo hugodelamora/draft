@@ -183,7 +183,7 @@ https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
 #EXTINF:-1 channel-id="samsung-CABC230001363" tvg-id="CABC230001363" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC230001363_20230809T005118SQUARE.png_20230809005119.png" tvg-chno="1385" group-title="Samsung" , LEGO Channel
 https://i.mjh.nz/SamsungTVPlus/CABC230001363
 
-#EXTINF:-1 channel-id="samsung-CHBD1100003CW" tvg-id="CHBD1100003CW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1100003CW_20230823T033035SQUARE.png_20230823033035.png" tvg-chno="4314" group-title="Samsung" , FRANCE 24 FAST
+#EXTINF:-1 channel-id="samsung-CHBD1100003CW" tvg-id="CHBD1100003CW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1100003CW_20230823T033035SQUARE.png_20230823033035.png" tvg-chno="4314" group-title="Fav" , FRANCE 24 FAST
 https://i.mjh.nz/SamsungTVPlus/CHBD1100003CW.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBA1400006NP" tvg-id="ESBA1400006NP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20221026T004520SQUARE.png_20221026004521.png" tvg-chno="4116" group-title="Fav" , FailArmy
@@ -270,7 +270,7 @@ https://i.mjh.nz/SamsungTVPlus/ESAJ3800007PC.m3u8
 #EXTINF:-1 channel-id="samsung-ESBA2200006B4" tvg-id="ESBA2200006B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200006B4_20220810T012723SQUARE.png_20220810012723.png" tvg-chno="4438" group-title="Samsung" , Tastemade
 https://i.mjh.nz/SamsungTVPlus/ESBA2200006B4.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESAJ2900001Y3" tvg-id="ESAJ2900001Y3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20230809T053840SQUARE.png_20230809053841.png" tvg-chno="4480" group-title="Samsung" , Top Gear en Español
+#EXTINF:-1 channel-id="samsung-ESAJ2900001Y3" tvg-id="ESAJ2900001Y3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20230809T053840SQUARE.png_20230809053841.png" tvg-chno="4480" group-title="Fav" , Top Gear en Español
 https://i.mjh.nz/SamsungTVPlus/ESAJ2900001Y3.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBD3200001EG" tvg-id="ESBD3200001EG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20230913T030604SQUARE.png_20230913030605.png" tvg-chno="4485" group-title="Samsung" , Motorvision
@@ -6168,3 +6168,35 @@ http://magmas5.com:8000/Oscar86/40473/148711
 #EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-univision.png",UNIVISION Philadelphia
 http://magmas5.com:8000/Oscar86/40473/148725
 
+
+#EXTINF:-1 group-title="Fav", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Fav", REAL MADRID TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Fav", USA | Warner Channel
+http://177.53.153.21:8001/play/a08l/index.m3u8
+#EXTINF:-1  group-title="Fav", Tudn xtra 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
+#EXTINF:-1  group-title="Fav", espn Deportes 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62815
+#EXTINF:-1 group-title="Fav" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",Paramount+ PlutoTv
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Fav" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png",Paramount Channel
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Fav" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg",MULTIPREMIER HD
+http://177.234.230.226:8010/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Fav" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png",WARNER CHANNEL HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 group-title="Fav" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Fav" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E HD
+http://177.53.153.21:8001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Fav" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Fav" tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="Fav" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL HD
+http://190.27.253.211:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="Fav" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT HD-
+http://177.93.45.155:6143/play/a00l/index.m3u8
