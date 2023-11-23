@@ -52,10 +52,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MILENIO_Logo.png/245px-MILENIO_Logo.png" group-title="wow",WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png" tvg-chno="1254" group-title="Fav" , Zona TUDN
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png" group-title="Fav" , Zona TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20230926T032407SQUARE.png_20230926032407.png" tvg-chno="4502" group-title="Fav" , La Liga
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20230926T032407SQUARE.png_20230926032407.png" group-title="Fav" , La Liga
 https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
 
 #EXTINF:-1 group-title="Fav", GOLDEN PLUS
