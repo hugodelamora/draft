@@ -11,7 +11,6 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 group-title="Music", RETRO music
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png" tvg-chno="4710" group-title="Music" , Vevo Latino
 https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
 
@@ -23,9 +22,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2100001IU.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" tvg-chno="4721" group-title="Music" , Vevo '70s & '80s
 https://i.mjh.nz/SamsungTVPlus/ESBD230000289.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="plex" , Classic Rock
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/12c5ecf8-6c6c-4d33-8f04-4bfebab38359/CTV_Channel_Art__Vevo_70s.png" group-title="Music" , Vevo '70s
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61559303fa828e7f1a0ccfbd.m3u8
@@ -189,6 +185,9 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="News", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",France 24 Español (1080p)
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
 #######################################################################################################################################
 ###########################Fav
 #######################################################################################################################################
@@ -207,11 +206,35 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Fav", GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Fav",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Fav",Cartoons
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Fav",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" tvg-chno="4506" group-title="Fav" , FIFA+
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20230823T001831SQUARE.png_20230823001832.png" tvg-chno="1156" group-title="Fav" , FIFA+
 https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Fav",Discovery Kids FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Fav",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Fav",Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Fav",Platzi
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Fav",LatinoKids
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20221109T010708SQUARE.png_20221109010709.png" tvg-chno="4310" group-title="Fav" , El Confidencial
 https://i.mjh.nz/SamsungTVPlus/ESBC1400001L8.m3u8
@@ -263,31 +286,31 @@ https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 group-title="Fav2",chinos CGTN 
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20221026T004520SQUARE.png_20221026004521.png" tvg-chno="4116" group-title="Fav2" , FailArmy
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20221026T004520SQUARE.png_20221026004521.png" group-title="Fav2" , FailArmy
 https://i.mjh.nz/SamsungTVPlus/ESBA1400006NP.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20230726T033527SQUARE.png_20230726033528.png" tvg-chno="4414" group-title="Fav2" , GoUSA TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20230726T033527SQUARE.png_20230726033528.png" group-title="Fav2" , GoUSA TV
 https://i.mjh.nz/SamsungTVPlus/ESBC27000040I.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20221026T004503SQUARE.png_20221026004503.png" tvg-chno="4628" group-title="Fav2" , Pluto TV Kids
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20221026T004503SQUARE.png_20221026004503.png" group-title="Fav2" , Pluto TV Kids
 https://i.mjh.nz/SamsungTVPlus/ESAJ38000046O.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20230321T235906SQUARE.png_20230321235907.png" tvg-chno="1261" group-title="Fav2" , Sony Canal Competencias
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20230321T235906SQUARE.png_20230321235907.png" group-title="Fav2" , Sony Canal Competencias
 https://i.mjh.nz/SamsungTVPlus/USAJ3504719A.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20230912T232554SQUARE.png_20230912232555.png" tvg-chno="1273" group-title="Fav2" , Cine de Oro
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20230912T232554SQUARE.png_20230912232555.png" group-title="Fav2" , Cine de Oro
 https://i.mjh.nz/SamsungTVPlus/USBD2700005KL.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453794389_info_HUD_logo.png" group-title="Fav2" tvg-chno="230" , Fubo Sports Network
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453794389_info_HUD_logo.png" group-title="Fav2", Fubo Sports Network
 https://i.mjh.nz/Roku/b4273871759a5631bd536d2214f175e5.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/ab47c5037be851e6a929a4d09daafeac/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669077442140_Baywatch-HUDLOGO-CENTER-260x147-ROKU.png" group-title="Fav2" tvg-chno="341" , Baywatch
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/ab47c5037be851e6a929a4d09daafeac/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669077442140_Baywatch-HUDLOGO-CENTER-260x147-ROKU.png" group-title="Fav2", Baywatch
 https://i.mjh.nz/Roku/ab47c5037be851e6a929a4d09daafeac.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" group-title="Fav2" tvg-chno="404" , The LEGO Channel
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" group-title="Fav2", The LEGO Channel
 https://i.mjh.nz/Roku/77761dc1928357d6809a2032fc2e17b8.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657585180034_BabySharkTV__-_Image-HUD.png" group-title="Fav2" tvg-chno="419" , BABY SHARK TV
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657585180034_BabySharkTV__-_Image-HUD.png" group-title="Fav2", BABY SHARK TV
 https://i.mjh.nz/Roku/40d73ba5be775428a377908b02033b4c.m3u8
 
 #EXTINF:-1 group-title="Fav2", RETRO CARTOON PORTUGAL
@@ -770,42 +793,19 @@ https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25.do" tvg-logo="https://i.imgur.com/lmWu73V.png" group-title="Dominicana",Canal 25 (1080p) [Not 24/7]
 https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Dominicana",Cartoon Network FreeLive Latam 2 (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Dominicana",Cartoon Network FreeLive Latam (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Dominicana",Cartoonito FreeLive Latam (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Dominicana",Cáscara TV (1080p)
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Dominicana",COCO TV (720p)
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-id="CromTV.do" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="Dominicana",CromTV (480p)
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Dominicana",Discovery Kids FreeLive Latam (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
-#EXTINF:-1 tvg-id="DNews.us" tvg-logo="https://i.imgur.com/jF2BabI.png" group-title="Dominicana",DNews (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Dominicana",France 24 Español (1080p)
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-id="FRATATV.do" tvg-logo="https://i.imgur.com/VxeTREd.png" group-title="Dominicana",FRATA TV (720p)
-https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
-#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Dominicana",Imagen Universal TV
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Dominicana",Las Estrellas Latin America (720p)
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Dominicana",LatinoKids (480p) [Not 24/7]
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Microvision10.do" tvg-logo="https://i.imgur.com/wMl1fNZ.png" group-title="Dominicana",Microvision 10 (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Dominicana",ORBIT TV (480p) [Not 24/7]
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Dominicana",Platzi TV (1080p)
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Dominicana",Univision Latinoamérica
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ValleNuevoTV.do" tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="Dominicana",Valle Nuevo TV (720p) [Not 24/7]
-https://vdo2.streamgato.us:3639/live/generacionestvlive.m3u8
 #EXTINF:-1 tvg-id="Vallevision.do" tvg-logo="https://i.imgur.com/lNpgFAU.png" group-title="Dominicana",Vallevision Canal 10 (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 
