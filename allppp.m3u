@@ -298,7 +298,7 @@ https://i.mjh.nz/SamsungTVPlus/ESAJ38000046O.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20230321T235906SQUARE.png_20230321235907.png" group-title="Fav2" , Sony Canal Competencias
 https://i.mjh.nz/SamsungTVPlus/USAJ3504719A.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20230912T232554SQUARE.png_20230912232555.png" group-title="Fav2" , Cine de Oro
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20230912T232554SQUARE.png_20230912232555.png" group-title="Fav2", Cine de Oro
 https://i.mjh.nz/SamsungTVPlus/USBD2700005KL.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453794389_info_HUD_logo.png" group-title="Fav2", Fubo Sports Network
