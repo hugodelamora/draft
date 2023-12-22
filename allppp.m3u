@@ -188,6 +188,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",France 24 Español (1080p)
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
+#EXTINF:-1 group-title="News", SEÑAL COLOMBIA CO
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="News", CCTV-13 CH
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#EXTINF:-1 group-title="News", NIPPON NEWS JP
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 #######################################################################################################################################
 ###########################Fav
 #######################################################################################################################################
@@ -198,8 +205,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png" group-title="Fav" , Zona TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20230926T032407SQUARE.png_20230926032407.png" group-title="Fav" , La Liga
-https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
 #EXTINF:-1 group-title="Fav", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
@@ -272,13 +277,21 @@ https://i.mjh.nz/SamsungTVPlus/ESAJ3800005C5.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20221109T010939SQUARE.png_20221109010939.png" tvg-chno="4121" group-title="Fav" , Encantador de Perros
 https://i.mjh.nz/SamsungTVPlus/ESBA3300033PL.m3u8
 
+#EXTINF:-1  tvg-country="PE" tvg-language="" tvg-logo="" group-title="Fav",Telecolor Chile
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20230726T033527SQUARE.png_20230726033528.png" group-title="Fav" , GoUSA TV
+https://i.mjh.nz/SamsungTVPlus/ESBC27000040I.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20230321T235906SQUARE.png_20230321235907.png" group-title="Fav" , Sony Canal Concursos
+https://i.mjh.nz/SamsungTVPlus/USAJ3504719A.m3u8
+#EXTINF:-1 group-title="Fav" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Smithsonian_Channel_%28Latinoam%C3%A9rica%29.svg/2560px-Smithsonian_Channel_%28Latinoam%C3%A9rica%29.svg.png",Smithsonian_Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20230926T032407SQUARE.png_20230926032407.png" group-title="Fav" , La Liga
+https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
 
 ########################################################################################################
 ############################ fav2
 ########################################################################################################
-
-#EXTINF:-1  tvg-country="PE" tvg-language="" tvg-logo="" group-title="Fav2",Telecolor Chile
-https://live.obslivestream.com/telecolormux/index.m3u8
 
 #EXTINF:-1 tvg-country="IN;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Fav2",TV BRICS RusiaEnglish 
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
@@ -289,14 +302,8 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20221026T004520SQUARE.png_20221026004521.png" group-title="Fav2" , FailArmy
 https://i.mjh.nz/SamsungTVPlus/ESBA1400006NP.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20230726T033527SQUARE.png_20230726033528.png" group-title="Fav2" , GoUSA TV
-https://i.mjh.nz/SamsungTVPlus/ESBC27000040I.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20221026T004503SQUARE.png_20221026004503.png" group-title="Fav2" , Pluto TV Kids
 https://i.mjh.nz/SamsungTVPlus/ESAJ38000046O.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20230321T235906SQUARE.png_20230321235907.png" group-title="Fav2" , Sony Canal Competencias
-https://i.mjh.nz/SamsungTVPlus/USAJ3504719A.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20230912T232554SQUARE.png_20230912232555.png" group-title="Fav2", Cine de Oro
 https://i.mjh.nz/SamsungTVPlus/USBD2700005KL.m3u8
@@ -316,113 +323,79 @@ https://i.mjh.nz/Roku/40d73ba5be775428a377908b02033b4c.m3u8
 #EXTINF:-1 group-title="Fav2", RETRO CARTOON PORTUGAL
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 
-##################################################################################################################################################
-##############################Fav3
-##################################################################################################################################################
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="Fav3" tvg-chno="930" , beIN SPORTS Xtra en Español
+#EXTINF:-1 group-title="Fav2" tvg-logo="https://www.coolstreaming.us/img/ch/image94583436102.jpg",La2 tve
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 group-title="Fav2", TICAVISION CR
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="Fav2" tvg-chno="930" , beIN SPORTS Xtra en Español
 https://i.mjh.nz/Roku/909b135136a1567eaf3f65fb64988323.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/4f6168d33ccf5df194a8d376b3de4198/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659588819250_BobRossEnEspanol_HUDLogo_240x147.png" group-title="Fav3" tvg-chno="953" , Bob Ross (Espanol)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/4f6168d33ccf5df194a8d376b3de4198/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659588819250_BobRossEnEspanol_HUDLogo_240x147.png" group-title="Fav2" tvg-chno="953" , Bob Ross (Espanol)
 https://i.mjh.nz/Roku/4f6168d33ccf5df194a8d376b3de4198.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/03a419fc4dff59b39b176d9f76b09e38/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653084282760_LoveNature_260x147_HUDenEspanol.png" group-title="Fav3" tvg-chno="966" , Love Nature Spanish
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/03a419fc4dff59b39b176d9f76b09e38/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653084282760_LoveNature_260x147_HUDenEspanol.png" group-title="Fav2" tvg-chno="966" , Love Nature Spanish
 https://i.mjh.nz/Roku/03a419fc4dff59b39b176d9f76b09e38.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/417de64d5d2255119088209d40ebfee6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652302122079_260x147-center.png" group-title="Fav3" tvg-chno="970" , Estrella Games
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/417de64d5d2255119088209d40ebfee6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652302122079_260x147-center.png" group-title="Fav2" tvg-chno="970" , Estrella Games
 https://i.mjh.nz/Roku/417de64d5d2255119088209d40ebfee6.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/27824491c514591980d67e5628e141f3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1689710730393_Image-HUD-2_Josue_Cortes.png" group-title="Fav3" tvg-chno="972" , La Saga
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/27824491c514591980d67e5628e141f3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1689710730393_Image-HUD-2_Josue_Cortes.png" group-title="Fav2" tvg-chno="972" , La Saga
 https://i.mjh.nz/Roku/27824491c514591980d67e5628e141f3.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5e709cfe55d955ec899903cde681a5a4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1685995521422_Logo_AInternacional_260x147_May23.png" group-title="Fav3" tvg-chno="974" , Azteca Internacional
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5e709cfe55d955ec899903cde681a5a4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1685995521422_Logo_AInternacional_260x147_May23.png" group-title="Fav2" tvg-chno="974" , Azteca Internacional
 https://i.mjh.nz/Roku/5e709cfe55d955ec899903cde681a5a4.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0a4b312408525013a834253f4fdfa11f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673655921802_FR_ConcursosDeCocina_HUD_CenterAligned.png" group-title="Fav3" tvg-chno="975" , Concursos de Cocina
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0a4b312408525013a834253f4fdfa11f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673655921802_FR_ConcursosDeCocina_HUD_CenterAligned.png" group-title="Fav2" tvg-chno="975" , Concursos de Cocina
 https://i.mjh.nz/Roku/0a4b312408525013a834253f4fdfa11f.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0a85a15f5ee75646bf386d3de3083a94/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659743612379_EPG_Hud_Logo_Template_Nov2021_Canela_Tv.png" group-title="Fav3" tvg-chno="982" , Canela.TV
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0a85a15f5ee75646bf386d3de3083a94/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659743612379_EPG_Hud_Logo_Template_Nov2021_Canela_Tv.png" group-title="Fav2" tvg-chno="982" , Canela.TV
 https://i.mjh.nz/Roku/0a85a15f5ee75646bf386d3de3083a94.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/4010582bb66b58a69151a4f552de0823/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549967029_FR_SeriesGratis_HUD_CenterAligned.png" group-title="Fav3" tvg-chno="983" , FilmRise Series Gratis
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/4010582bb66b58a69151a4f552de0823/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549967029_FR_SeriesGratis_HUD_CenterAligned.png" group-title="Fav2" tvg-chno="983" , FilmRise Series Gratis
 https://i.mjh.nz/Roku/4010582bb66b58a69151a4f552de0823.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/02cdd68d6244543b83ff35d990891463/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659743155480_Hud_Logo_Canela_Cinema-1_2022.png" group-title="Fav3" tvg-chno="990" , Canela Cinema
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/02cdd68d6244543b83ff35d990891463/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659743155480_Hud_Logo_Canela_Cinema-1_2022.png" group-title="Fav2" tvg-chno="990" , Canela Cinema
 https://i.mjh.nz/Roku/02cdd68d6244543b83ff35d990891463.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/79eb3a43680e5a9f9689fee074502a3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549410243_cineRomantico_HUDlogo_centered_260x147.png" group-title="Fav3" tvg-chno="993" , Cine Romantico
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/79eb3a43680e5a9f9689fee074502a3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549410243_cineRomantico_HUDlogo_centered_260x147.png" group-title="Fav2" tvg-chno="993" , Cine Romantico
 https://i.mjh.nz/Roku/79eb3a43680e5a9f9689fee074502a3b.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8171c38c1c625b5890423572b3fc9fbe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659571592459_HUD_logo_260x147_centered.png" group-title="Fav3" tvg-chno="994" , MyTime (en Espanol)
 https://i.mjh.nz/Roku/8171c38c1c625b5890423572b3fc9fbe.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b0d5db7f498f56fcaf1f8289eea6ea4d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1658958888898_1651872075315_Anthony_Straga_-_SparkTV_ROKU-US-SPANISH_HUD-2_v2.png" group-title="Fav3" tvg-chno="995" , Spark TV - Luz & Amor
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b0d5db7f498f56fcaf1f8289eea6ea4d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1658958888898_1651872075315_Anthony_Straga_-_SparkTV_ROKU-US-SPANISH_HUD-2_v2.png" group-title="Fav2" tvg-chno="995" , Spark TV - Luz & Amor
 https://i.mjh.nz/Roku/b0d5db7f498f56fcaf1f8289eea6ea4d.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/eaeb1f4ef8ed510e8bc2a3fd78510c30/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563593689_RUNTIME_260x147.png" group-title="Fav3" tvg-chno="997" , Runtime Español
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/eaeb1f4ef8ed510e8bc2a3fd78510c30/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563593689_RUNTIME_260x147.png" group-title="Fav2" tvg-chno="997" , Runtime Español
 https://i.mjh.nz/Roku/eaeb1f4ef8ed510e8bc2a3fd78510c30.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/7dea4ba9ecfb572c9380690e6bfb384a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661440982248_1652812513266_CineReal_mono_center_HUD.png" group-title="Fav3" tvg-chno="1008" , Cine Real
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/7dea4ba9ecfb572c9380690e6bfb384a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661440982248_1652812513266_CineReal_mono_center_HUD.png" group-title="Fav2" tvg-chno="1008" , Cine Real
 https://i.mjh.nz/Roku/7dea4ba9ecfb572c9380690e6bfb384a.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5b4b59af18ff5686916ef5eb3574de46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451803936_FR_PeliculasGratis_HUD_CenterAligned.png" group-title="Fav3" tvg-chno="1009" , FilmRise Peliculas Gratis
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5b4b59af18ff5686916ef5eb3574de46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451803936_FR_PeliculasGratis_HUD_CenterAligned.png" group-title="Fav2" tvg-chno="1009" , FilmRise Peliculas Gratis
 https://i.mjh.nz/Roku/5b4b59af18ff5686916ef5eb3574de46.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/36b2068d08c555769e12a86effb7510b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661440548706_1652822964268_Flash_mono_center_HUD.png" group-title="Fav3" tvg-chno="1092" , Flash
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/36b2068d08c555769e12a86effb7510b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661440548706_1652822964268_Flash_mono_center_HUD.png" group-title="Fav2" tvg-chno="1092" , Flash
 https://i.mjh.nz/Roku/36b2068d08c555769e12a86effb7510b.m3u8
 
-#################################################################################################################################
-######################### Fav4
-#################################################################################################################################
 
-#EXTINF:-1 group-title="Fav4", CANAL 57 USA
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Fav4", UNIVISION LATAM
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Fav4", RCN EXTRA CO
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Fav4", RCN Mas+ CO
-https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Fav4", CINCO TV AR
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Fav4", Canal 26 Noticias AR
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1 group-title="Fav4", TELEMUNDO CAL
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 group-title="Fav4", TELEMUNDO PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="Fav4", TELE ONCE PR
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 group-title="Fav4", CANAL 34 PR
-http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 group-title="Fav4", TVMAX PA (dep)
-http://45.5.117.182:8000/play/a0ip/index.m3u8
-#EXTINF:-1 group-title="Fav4", TVN PA
-https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 group-title="Fav4", TICAVISION CR
-https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1  group-title="Fav4", GLOBAL PE (goofy)
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1303122907&_cdn_timestamp=1697633801&_cdn_token=8991c6d5a7a904897c58d772d1c2342fcaa55d72
-#EXTINF:-1 group-title="Fav4", SEÑAL COLOMBIA CO
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fav4", CCTV-13 CH
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1 group-title="Fav4", NHK WORLD JP ENG
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-#EXTINF:-1 group-title="Fav4", NIPPON NEWS JP
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="Fav4", 24 HORAS ES
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="Fav4", ABC PY
-https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7c21d6f3-1bf2-414e-aee0-c2b1365d228b/DOND_Logo_Light_1500x1000_-_Harry_Marshall__1_.png" group-title="Fav2" , Deal Or No Deal
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6516023b1fc969615e69d172.m3u8
 
-#EXTINF:-1 group-title="Fav4" tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg",Caracol Tv
-http://191.102.90.97:8000/play/a0ga/index.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/26e1e09d-6285-428e-9414-e43d3961bf1e/Plex_FilmRise_MisteriosSinResolver_White_Logo.png" group-title="Fav2" , Misterios sin Resolver
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64d79408e5f67b0fab47ff24.m3u8
 
-#EXTINF:-1 group-title="Fav4" tvg-logo="https://www.coolstreaming.us/img/ch/image94583436102.jpg",La2 tve
-https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" group-title="Fav2" , Butaca TV
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8.m3u8
 
-#EXTINF:-1 group-title="Fav4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Smithsonian_Channel_%28Latinoam%C3%A9rica%29.svg/2560px-Smithsonian_Channel_%28Latinoam%C3%A9rica%29.svg.png",Smithsonian_Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-logo="https://provider-static.plex.tv/epg/cms/production/11c70d32-00fb-4c9d-9818-90c73fcc2ef4/CM-Plex-Dark_background_color-CanelaClasicos_-_Camila_Conti.png" group-title="Fav2" , Canela Clásicos
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947.m3u8
+
+#EXTINF:-1 group-title="Fav2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/2560px-ION_Plus_logo.svg.png",ION Plus
+https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
+
+
 
 ##################################################################################################################################################
 ############################## cine
@@ -636,27 +609,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBD8000033W.m3u8
 #EXTINF:-1 tvg-id="ESBC2700005EE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png" tvg-chno="4994" group-title="Samsung" , Películas Top - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/ESBC2700005EE.m3u8
 
-########################################################
-### var
-########################################################
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7c21d6f3-1bf2-414e-aee0-c2b1365d228b/DOND_Logo_Light_1500x1000_-_Harry_Marshall__1_.png" group-title="var" , Deal Or No Deal
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6516023b1fc969615e69d172.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/26e1e09d-6285-428e-9414-e43d3961bf1e/Plex_FilmRise_MisteriosSinResolver_White_Logo.png" group-title="var" , Misterios sin Resolver
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64d79408e5f67b0fab47ff24.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" group-title="var" , Butaca TV
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-logo="https://provider-static.plex.tv/epg/cms/production/11c70d32-00fb-4c9d-9818-90c73fcc2ef4/CM-Plex-Dark_background_color-CanelaClasicos_-_Camila_Conti.png" group-title="var" , Canela Clásicos
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947.m3u8
-
-#EXTINF:-1 group-title="var" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/2560px-ION_Plus_logo.svg.png",ION Plus
-https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="var" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png",ABC 10 San Diego (KGTV-DT1)
-http://supersonictv.live:8080/live/066706/059346/71789.m3u8
 
 ############################################################################################################################################################
 #################################### NACIONALES
@@ -704,6 +656,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_footer.png",TVP Mazatlan Web
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
+
+
 #############################################################################################
 #############################################################################################
 
@@ -714,6 +668,33 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://177.93.45.155:6143/play/a034/index.m3u8
 
 
+#############################################################################################
+#############################################################################################
+
+#EXTINF:-1 group-title="NACIONALES2", NHK WORLD JP ENG
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1 group-title="NACIONALES2", CANAL 57 USA
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES2", RCN EXTRA CO
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES2", RCN Mas+ CO
+https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES2", CINCO TV AR
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES2", TELEMUNDO CAL
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 group-title="NACIONALES2", TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="NACIONALES2", TELE ONCE PR
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+#EXTINF:-1 group-title="NACIONALES2", CANAL 34 PR
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES2", TVMAX PA (dep)
+http://45.5.117.182:8000/play/a0ip/index.m3u8
+#EXTINF:-1 group-title="NACIONALES2", TVN PA
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 group-title="NACIONALES2", ABC PY
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 
 ######################################################################################################################
