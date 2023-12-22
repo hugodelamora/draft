@@ -361,7 +361,7 @@ https://i.mjh.nz/Roku/02cdd68d6244543b83ff35d990891463.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/79eb3a43680e5a9f9689fee074502a3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549410243_cineRomantico_HUDlogo_centered_260x147.png" group-title="Fav2" tvg-chno="993" , Cine Romantico
 https://i.mjh.nz/Roku/79eb3a43680e5a9f9689fee074502a3b.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8171c38c1c625b5890423572b3fc9fbe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659571592459_HUD_logo_260x147_centered.png" group-title="Fav3" tvg-chno="994" , MyTime (en Espanol)
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8171c38c1c625b5890423572b3fc9fbe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659571592459_HUD_logo_260x147_centered.png" group-title="Fav2" tvg-chno="994" , MyTime (en Espanol)
 https://i.mjh.nz/Roku/8171c38c1c625b5890423572b3fc9fbe.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b0d5db7f498f56fcaf1f8289eea6ea4d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1658958888898_1651872075315_Anthony_Straga_-_SparkTV_ROKU-US-SPANISH_HUD-2_v2.png" group-title="Fav2" tvg-chno="995" , Spark TV - Luz & Amor
@@ -406,23 +406,18 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc.m3u8
 #EXTINF:-1 group-title="Cine", Cinemax
 http://45.189.117.202:48000/play/a02a/index.m3u8
 
-#EXTINF:-1 group-title="Cine", HBO
-http://177.53.153.21:8001/play/a03b/index.m3u8
-
-#EXTINF:-1 group-title="Cine", HBO Family
-http://177.53.153.21:8001/play/a04g/index.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
-http://181.78.105.146:6060/play/a00h
-
-#EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
-http://45.179.140.242:8000/play/a0kt
-
-#EXTINF:-1 group-title="Cine" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family HD
-http://181.78.105.146:6060/play/a00k
-
 #EXTINF:-1 group-title="Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2uos7rleuxwdig6i5z23k/fmtv.png?rlkey=fyoa2s4fxlp4rmvd0zlcagokq&dl=0",CINE| fmtv fusion
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO eng
+http://181.78.105.146:6060/play/a00h
+
+#EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO eng
+http://45.179.140.242:8000/play/a0kt
+
+#EXTINF:-1 group-title="Cine" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family eng
+http://181.78.105.146:6060/play/a00k
+
 
 ##################################################################################################################################################
 ##############################MX
