@@ -6,6 +6,10 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MILENIO_Logo.png/245px-MILENIO_Logo.png" group-title="wow",WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
+
+#EXTINF:-1 group-title="7-24",COSMOS.TEST
+http://192.168.68.154:8080
+
 #EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/l1oc3ER.png" group-title="Music",Video Tour Channel (480p) [Not 24/7]
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 group-title="Music", RETRO music
