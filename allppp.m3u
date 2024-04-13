@@ -108,12 +108,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png" group-title="Fav" , Zona TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1  tvg-country="PE" tvg-language="" tvg-logo="" group-title="Fav",Telecolor Chile
-https://live.obslivestream.com/telecolormux/index.m3u8
-
-#EXTINF:-1 group-title="Fav", REAL MADRID TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Fav",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
@@ -126,10 +120,10 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20230823T001831SQUARE.png_20230823001832.png" tvg-chno="1156" group-title="Fav" , FIFA+
 https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MX", AZTECA UNO
+#EXTINF:-1 tvg-logo="" group-title="Fav", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MX", AZTECA 7
+#EXTINF:-1 tvg-logo="" group-title="Fav", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Fav",Las Estrellas Latin America (720p)
@@ -140,6 +134,15 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20221109T010708SQUARE.png_20221109010709.png" tvg-chno="4310" group-title="Fav" , El Confidencial
 https://i.mjh.nz/SamsungTVPlus/ESBC1400001L8.m3u8
+
+#EXTINF:-1  tvg-country="PE" tvg-language="" tvg-logo="" group-title="Fav",Telecolor Chile
+https://live.obslivestream.com/telecolormux/index.m3u8
+
+#EXTINF:-1 group-title="Fav", REAL MADRID TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Fav", REAL MADRfID ENG
+https://lnc-real-madrid.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20230809T053828SQUARE.png_20230809053829.png" tvg-chno="4318" group-title="Fav" , El País
 https://i.mjh.nz/SamsungTVPlus/ESBC39000033J.m3u8
@@ -204,9 +207,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 ##################################################################################################################################################
 ############################## cine
 ##################################################################################################################################################
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5564f22-68b4-48a4-b797-0efe45c73103/Logo_w_-_JENNIFER_MCBRIDE_colorrdx2.png" group-title="Cine" , Cine Premium Plus
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc.m3u8
-
 
 #EXTINF:-1 group-title="Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2uos7rleuxwdig6i5z23k/fmtv.png?rlkey=fyoa2s4fxlp4rmvd0zlcagokq&dl=0",CINE| fmtv fusion
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
