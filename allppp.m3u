@@ -1,15 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="7-24",COSMOS
-#http://192.168.68.154:8081/cosmos
 http://192.168.68.133:8081/cosmos
 
-#EXTINF:-1 group-title="7-24",MARVEL
-#http://192.168.68.154:8080/nanny01
+#EXTINF:-1 group-title="7-24",UNI MARVEL
 http://192.168.68.133:8080/marvel
 
 #EXTINF:-1 group-title="7-24",SIMPSONS
-#http://192.168.68.154:8082/simpsons
 http://192.168.68.133:8082/simpsons
 
 #######################################################################################################################################
