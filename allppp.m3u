@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="7-24",COSMOS
 
 
 #######################################################################################################################################
@@ -247,8 +246,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 ********
-
-#http://192.168.68.131:8080/cosmos
+#EXTINF:-1 group-title="7-24",COSMOS
+http://192.168.68.131:8080/cosmos
 #EXTINF:-1 group-title="7-24",SIMPSONS
 http://192.168.68.131:8080/simpsons
 #EXTINF:-1 group-title="7-24",UNI MARVEL
