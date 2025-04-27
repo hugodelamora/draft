@@ -1,13 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="7-24",COSMOS
-#http://192.168.68.131:8080/cosmos
-#EXTINF:-1 group-title="7-24",SIMPSONS
-#http://192.168.68.131:8080/simpsons
-#EXTINF:-1 group-title="7-24",UNI MARVEL
-#http://192.168.68.131:8080/marvel
 
-
-#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="Sports",CDN Deportes (720p) https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 
 #######################################################################################################################################
 ############################News
@@ -15,6 +8,12 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MILENIO_Logo.png/245px-MILENIO_Logo.png" group-title="wow",WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="Sports",CDN Deportes (720p) https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
+
+
 
 #EXTINF:-1 tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -247,5 +246,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Español" tvg-logo="" group-title="Extranjera", CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
+********
+
+#http://192.168.68.131:8080/cosmos
+#EXTINF:-1 group-title="7-24",SIMPSONS
+http://192.168.68.131:8080/simpsons
+#EXTINF:-1 group-title="7-24",UNI MARVEL
+http://192.168.68.131:8080/marvel
 
 
