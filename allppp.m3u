@@ -31,12 +31,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="MX", MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",France 24 Español (1080p)
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-
-#EXTINF:-1 group-title="News", SEÑAL COLOMBIA CO
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-
 
 #######################################################################################################################################
 ###########################Fav
@@ -54,9 +48,6 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Fav", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Fav",Platzi
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-
 #EXTINF:-1  tvg-country="PE" tvg-language="" tvg-logo="" group-title="Fav",Telecolor Chile
 https://live.obslivestream.com/telecolormux/index.m3u8
 
@@ -70,15 +61,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 group-title="Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2uos7rleuxwdig6i5z23k/fmtv.png?rlkey=fyoa2s4fxlp4rmvd0zlcagokq&dl=0",CINE| fmtv fusion
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO eng
-http://181.78.105.146:6060/play/a00h
-
-#EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO eng
-http://45.179.140.242:8000/play/a0kt
-
-#EXTINF:-1 group-title="Cine" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family eng
-http://181.78.105.146:6060/play/a00k
 
 
 ##################################################################################################################################################
@@ -113,12 +95,6 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png" group-title="MX",Noticias Canal 10 Heraldo
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-#EXTINF:-1 group-title="MX", LAS ESTRELLAS
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-
-#EXTINF:-1 group-title="MX", LAS ESTRELLAS
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-
 #EXTINF:-1 group-title="MX", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -131,61 +107,15 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="MX", AZTECA 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 group-title="MX", ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-#EXTINF:-1  group-title="MX", A+
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
 #EXTINF:-1 group-title="MX", MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 group-title="MX", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1  group-title="MX", MVS
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 
 
-#EXTINF:-1 group-title="MX", CHH: CANAL 44
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 group-title="MX", COA: 15TV Sabinas Coahuila
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="MX" tvg-logo="https://www.tvcuatro.com/images/noticias-01.png",TVCUATRO 4.1 Web
-https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
-#EXTINF:-1 group-title="MX" tvg-logo="https://www.tvcuatro.com/images/cultura-01.png",TVCUATRO 4.2 Web
-https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8
-#EXTINF:-1 group-title="MX", GUA: TV Cuatro 4.1 Noticias
-https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
-#EXTINF:-1 group-title="MX", GUA: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 group-title="MX", GUA: TV Cuatro 4.3 Deportes
-https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
-#EXTINF:-1 group-title="MX", JAL: Jalisco TV
-https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
-
-#EXTINF:-1 group-title="MX" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png",Las Estrellas♥
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
-#EXTINF:-1 group-title="MX" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png",Foro TV
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:-1 group-title="MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png",Azteca Uno Web
-https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
-#EXTINF:-1 group-title="MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png",Azteca Uno Web
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="MX" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png",Azteca 7 Web
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg",Azteca 7 Noroeste Info7 Web
-https://live.info7.mx/info7/stream.m3u8
-#EXTINF:-1 group-title="MX" tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png",A+ Web
-https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
-#EXTINF:-1 group-title="MX" tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png",A+ Web
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="MX" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgv2DM2g-3zp09DmLGWO5JWVKJofVJmJqBn2Sfplg_uBC1q-AW_OJ1mX5ShLRjM48fUxyS7YscoZPqpkWa1VaZICz8fjpg3AimUeaBCw4G-sNIog3h1ERxNL1wXK0T9t0c0qLqB8ohln0Sym87cWXytLAoAEdylguiBMweIoyDRCjJET_tGzO8uo0J7WQ=w700-h400-p-k-no-nu",XHKG TV Nayarit
-https://stream.oursnetworktv.com/latin/encoder73/chunklist_w509527976.m3u8
-
-#EXTINF:-1 group-title="MX" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png",Televisa Guadalajara Canal 4
-https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_6.m3u8
 #EXTINF:-1 group-title="MX" tvg-logo="https://canal44.com/wp-content/uploads/2020/10/logocanal.png",Canal 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
@@ -215,53 +145,37 @@ https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/li
 ######################################################################################################################
 
 
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKPG5piatlxvTYlqm8-gdB6qOzJAPusjWRSw&usqp=CAU",CR| CANAL 1
-https://video20.klm99.com:3993/hybrid/play.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUmg188E2X2bAX9Vj2B542ISVrz5D3LkgTg&usqp=CAU",CR| coto brus tv
-https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwhqwBftSfMu15hwXmFloirFOU7GfzvhtSYw&usqp=CAU",CR| costa rica channel
-https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
+
 #EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuH2pNcjfEx1y0_sfIIg287VbEw-yJ5L6ig&usqp=CAU",CR| teve norte
 https://5fd8fec96951d.streamlock.net:443/TVN/CH14.stream_720p/chunklist_w425777611.m3u8
 #EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfLRTXz2TSfm1mnaockF7rWtYShJTJ8wMzQ&usqp=CAU",CR| garabito tv
 https://59ef525c24caa.streamlock.net:443/garabitoTV/garabitotv/chunklist_w1463613344.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkAHmCkkPzREUAjSuIcHtIxhLdD2QIFI9FQ&usqp=CAU",CR| los santos tv
-https://lstv.duckdns.org:449/hls/lstv.m3u8
+
+
 #EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4uLGOuQaNRSDK8lSiCjICHX0Ld_weJoskA&usqp=CAU",CR| telebrunca
 https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1244906677.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBfQDrgA2AgPmHZaHHwtiDxGn3Wp1XnoI6g&usqp=CAU",CR| guatuso tv
-https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1960322809.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmicNPv2oKTqz_SanYW6rhyFP-yNtbBMoJRw&usqp=CAU",CR| nosara tv (pelis)
-https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w846594311.m3u8
+
 
 
 ######################################################################################################################3
 ######################################################################################################################3
 
-######################### dominicana m3u.cl
-#EXTINF:-1 tvg-id="CanaTVDigital.do" tvg-logo="https://i.imgur.com/k8jxt12.png" group-title="Dominicana",Cana TV Digital (720p) [Not 24/7]
-https://livetv.305streamhd.com:3707/live/canatvdigitallive.m3u8
-#EXTINF:-1 tvg-id="BonchesLatinosTV.do" tvg-logo="https://i.imgur.com/Kp8x0NS.png" group-title="Dominicana",Bonches Latinos TV (720p)
-https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
+######################### dominicana 
+
+
 #EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Dominicana",Boreal (720p)
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-#EXTINF:-1 tvg-id="Canal4RD.do" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="Dominicana",Canal 4 RD (1080p)
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal25.do" tvg-logo="https://i.imgur.com/lmWu73V.png" group-title="Dominicana",Canal 25 (1080p) [Not 24/7]
-https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Dominicana",Cáscara TV (1080p)
-https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Dominicana",COCO TV (720p)
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-#EXTINF:-1 tvg-id="CromTV.do" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="Dominicana",CromTV (480p)
-https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="Microvision10.do" tvg-logo="https://i.imgur.com/wMl1fNZ.png" group-title="Dominicana",Microvision 10 (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
-#EXTINF:-1 tvg-id="ORBITTV.do" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Dominicana",ORBIT TV (480p) [Not 24/7]
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Vallevision.do" tvg-logo="https://i.imgur.com/lNpgFAU.png" group-title="Dominicana",Vallevision Canal 10 (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 
@@ -307,50 +221,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/02/25/pluto-mlb-image_4H0sy8F.jpg",PLUTO TV MLB Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-shift="0" group-title="Deportes",Claro Sport
-http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 tvg-shift="0" group-title="Deportes",ESPN 2
-http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 tvg-shift="0" group-title="Deportes",ESPN
-http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 tvg-shift="0" group-title="Deportes",ESPN3
-http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-shift="0" group-title="Deportes", SKY LA LIGA
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-shift="0" tvg-name="TUDNM" group-title="Deportes", TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Deportes",TUDN
-http://bgtv.xyz/play/play-117.php?tlat=3&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Deportes", TUDN MX
-http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="Deportes", ITV DEPORTES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-#EXTINF:-1 group-title="Deportes", AYM Sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" group-title="DEPORTES", NBA
-http://bgtv.xyz/play/play-117.php?ul=838&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN
-http://bgtv.xyz/play/play-117.php?ul=698&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN (Pocos Datos)
-http://bgtv.xyz/play/play-117.php?ul=822&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN ᵸᴰ
-http://bgtv.xyz/play/play-117.php?ul=801&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN Op. 2
-http://bgtv.xyz/play/play-117.php?ul=997&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN USA ᵸᴰ
-http://bgtv.xyz/play/play-117.php?ul=86&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="DEPORTES", Tyc Sports
-http://bgtv.xyz/play/play-117.php?ul=274&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vamos.png" group-title="DEPORTES", Vamos ᵸᴰ
-http://bgtv.xyz/play/play-117.php?ul=940&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="DEPORTES", Movistar Deportes 2 ᵸᴰ
-http://bgtv.xyz/play/play-117.php?ul=367&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="DEPORTES", Movistar Deportes ᵸᴰ
-http://bgtv.xyz/play/play-117.php?ul=925&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_laliga.png" group-title="DEPORTES", Movistar LaLiga ᵸᴰ
-http://bgtv.xyz/play/play-117.php?ul=916&token=dfghdfghfghdfghdfg
 
 
 #######################################################################################################################################
@@ -364,39 +234,14 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="RECOMENDADOS", Imagen Television
-http://181.78.105.146:2000/play/a00h/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="RECOMENDADOS", Canal 5
-http://181.78.105.146:2000/play/a038/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+
+
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png" group-title="RECOMENDADOS", Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 Gto." tvg-logo="https://tvcuatro.tv/images/logo-menu.png" group-title="RECOMENDADOS",TV4 Gto.
-https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.2 Gto." tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online.png" group-title="RECOMENDADOS",TV4.2 Gto.
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.3 Gto." tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online.png" group-title="RECOMENDADOS",TV4.3 Gto.
-https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbc.png" group-title="RECOMENDADOS", NBC ᵸᴰ
-http://bgtv.xyz/play/play-117.php?ul=933&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="RECOMENDADOS", HBO Family
-http://bgtv.xyz/play/play-117.php?ul=968&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la1.png" group-title="RECOMENDADOS", La 1 ᵸᴰ
-http://bgtv.xyz/play/play-117.php?ul=927&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la2ᵸᴰ.png" group-title="RECOMENDADOS", La 2 ᵸᴰ
-http://bgtv.xyz/play/play-117.php?ul=967&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="RECOMENDADOS", La Sexta ᵸᴰ
-http://bgtv.xyz/play/play-117.php?ul=928&token=dfghdfghfghdfghdfg
 
 
 
-#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425396-8c.png" group-title="Extranjera",RT (Español)
-https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" group-title="Extranjera",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png" group-title="Extranjera",DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Español" tvg-logo="" group-title="Extranjera", CGTN Español
